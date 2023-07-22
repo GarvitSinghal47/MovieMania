@@ -20,28 +20,27 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
   ## Screenshots
 
 1. Initial View
+   
+ ![1](https://github.com/GarvitSinghal47/MovieMania/assets/82756460/bbcbd2bd-3286-4397-a9e8-3979ecd09f09)
 
-![Alt text](/screenshot/1.png )
+2. Search View
 
-2.Search View
-
-![Alt text](/screenshot/2.png )
+![2](https://github.com/GarvitSinghal47/MovieMania/assets/82756460/cc357ab5-f59c-4c40-88b7-0a8ba659ab66)
 
 
 3. Movie Details View
 
-![Alt text](/screenshot/3.png )
-
+![3](https://github.com/GarvitSinghal47/MovieMania/assets/82756460/f1bbb921-3bb6-4ef6-8506-e3ef8464ec5e)
 
 
 4. User review View with sentiment analysis
 
-![Alt text](/screenshot/4.png )
+![4](https://github.com/GarvitSinghal47/MovieMania/assets/82756460/c91bda8b-e94f-47d6-8946-811ca582e9eb)
 
 
 5. Movie Recommendation View
 
-![Alt text](/screenshot/5.png )
+![5](https://github.com/GarvitSinghal47/MovieMania/assets/82756460/9e357cdc-bd52-4a71-884c-9531bd34690d)
 
 
 
