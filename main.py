@@ -8,10 +8,14 @@ import bs4 as bs
 import urllib.request
 import pickle
 import requests
+from dotenv import load_dotenv
+load_dotenv()
+import os
+
 
 from tmdbv3api import TMDb
 tmdb = TMDb()
-tmdb.api_key = '0281c9f7236f0bc8cc11c48016f83146'
+tmdb.api_key = os.getenv('TMDB_API')
 
 from tmdbv3api import Movie
 
